@@ -14,7 +14,7 @@ Enter 'exit' if you want to exit.
 - OS: Ubuntu 18.04
 - User: compfest17
 - Container port: 4321
-- Working directory: /home/compfest15
+- Working directory: /home/compfest17
 - Gunakan container port sebagai listening port untuk `socat` atau program sejenis
 
 ## Spesifikasi docker-compose.yml
