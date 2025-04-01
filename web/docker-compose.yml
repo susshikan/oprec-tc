@@ -3,9 +3,9 @@ version: '3'
 services:
   web:
     build: ./files
-    container_name: WEB_2406424192
+    container_name: WEB_2406424190
     ports:
-      - "24192:1234"  
+      - "24190:1234"  
     environment:
       - PRODUCTION=true
     restart: always
