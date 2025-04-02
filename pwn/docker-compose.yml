@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  pwn:
+    build: ./files
+    container_name: PWN_2406424190 
+    ports:
+      - "14190:4321"  
+    restart: on-failure
